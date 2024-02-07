@@ -1,1 +1,1 @@
-# pytorch-explorer
+# PyTorch Explorer
